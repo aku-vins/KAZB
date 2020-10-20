@@ -1,0 +1,23 @@
+{
+  "name": "kazb",
+  "version": "1.0.0",
+  "description": "KAZB?.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.3.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sanikava",
+    "danoxzilla",
+    "vins",
+    "zneuromancer"
+  ]
+}
